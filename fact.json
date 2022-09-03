@@ -1,0 +1,34 @@
+[
+    "Zenkitty is 6ft 1in",
+    "F will pay respects",
+    "Thomas made the !fact feature!",
+    "The difference between a pneumothorax and hemothorax is in a pneumothorax there's air trapped in the plural space between the lungs and the chest wall and that's bad because it collapses the lung. In a hemothorax there's blood in that space instead.",
+
+
+
+    "VIM FACT!: `:wq` Will save and quit your file!",
+    "VIM FACT!: i have been stuck in vim for 12 years. help",
+    "VIM FACT!: Hover a word in command mode and say `ciw` -- doesn't matter where you are in the word, you'll go into insert mode and be able to replace all of it",
+    "VIM FACT!: `ciw` means 'Change in word' (Disincludes spaces)",
+    "VIM FACT!: `caw` means 'Change all word' (Includes spaces)",
+    "VIM FACT!: `ci`( means 'Change in ()' (disincluding ())",
+    "VIM FACT!: `ca`( means 'Change all ()' (Including ())",
+    "VIM FACT!: If you're too good for :wq, you can also type '`ZZ`'",
+    "VIM FACT!: If you want to quickly reformat the spacing of a file, you can type `gg=G`",
+    "VIM FACT!: If you want to toggle the capitalization of a highlighted section you can press the `~` key",
+    "VIM FACT!: Pressing `ctrl+a` will increment the next number on the line",
+    "VIM FACT!: `f` followed by a char will search forward from your cursor for that char. `F`, on the other hand, will search backwards",
+    "VIM FACT!: `/` will forwards search a file for entered text. `?` will search backwards for entered text",
+    "VIM FACT!: `/` will forwards search a file for entered text. `?` will search backwards for entered text",
+    "VIM FACT!: If you use the arrow keys in vim, you're a noob and should go back to nano. Heck ('Don't add this' -Mifflin)",
+    "Vim FACT!: If you ever want to go to the first definition of a variable or a function within a file, you can use `gd`",
+    "Vim FACT!: If you ever want to go to the first definition of a variable or a function within a file, you can use `gd`",
+
+    "Bash Tip: If you ever need to perform an action you did previously, you can use a search to find that command, and use the number associated with it to run the action again. For instance: history | grep -i 'vim' will show you all your recent vim-scapades,  and see a result similar to 154 vim foo.bar, saying !154 will repeat that action.",
+
+    "VSCode Tip: I'm worse than vim for all workflows except web dev!"
+
+
+
+
+]
