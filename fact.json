@@ -7,8 +7,13 @@
     "fact",
     "this is a stupid idea, who came up with this",
     "'Thanatos, the Cooler Bot' is not actually cooler",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+    "Asahi Linux is the best Linux Distro!",
     
-        
+    "Charon is powered by Arch Linux",
+    "nano > vim",
+    
     "FACT: windoes is better than linux? I think?",
     "FACT: If your computer is running slow, just download more RAM!",
 
@@ -87,7 +92,7 @@
     "BASH TIP!: If you ever need to perform an action you did previously, you can use a search to find that command, and use the number associated with it to run the action again. For instance: history | grep -i 'vim' will show you all your recent vim-scapades,  and see a result similar to 154 vim foo.bar, saying !154 will repeat that action.",
 
     "VSCode Tip: I'm worse than vim for all workflows except web dev!",
-
+    
     "no, fuck you",
     "oops! something went wrong, try doing that again several times.",
 
